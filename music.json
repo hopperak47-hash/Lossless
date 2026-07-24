@@ -1,6 +1,116 @@
 {
   "items": [
     {
+      "song": "Netru Aval Irundhaal",
+      "artist": "A.R. Rahman, Chinmayi, Vijay Prakash",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/rabin-v-1784897163850-Naetru_Aval_Irundhal_-_A.R._Rahman__Vijay_Prakash___Chinmayi_Sripada.flac"
+    },
+    {
+      "song": "Seramal Ponal",
+      "artist": "Mervin Solomon, Sameera Bharadwaj",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/rabin-v-1784894937545-Seramal_Ponal_-_Mervin_Solomon___Sameera_Bharadwaj.flac"
+    },
+    {
+      "song": "Khwaja Mere Khwaja",
+      "artist": "A. R. Rahman",
+      "url": "https://lossless.echomusic.fun/Music/hakishi-khwaja_mere_khwaja.flac"
+    },
+    {
+      "song": "Kinna Sona",
+      "artist": "Sunil Kamath, Mithoon and Amitabh Varma",
+      "url": "https://lossless.echomusic.fun/Music/hakishi-kinna_sona.flac"
+    },
+    {
+      "song": "Havana (feat. Young Thug)",
+      "artist": "Camila Cabello",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/ashey29-1784892151084-havana__camila-cabello__1000kbps____.flac"
+    },
+    {
+      "song": "Tu Hi Mera",
+      "artist": "Shafqat Amanat Ali Khan, Pritam and Sayeed Quadri",
+      "url": "https://lossless.echomusic.fun/Music/hakishi-tu_hi_mera.flac"
+    },
+    {
+      "song": "I Think They Call This Love (Cover)",
+      "artist": "Matthew Ifield",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/rabin-v-1784898171376-I_Think_They_Call_This_Love__Cover__-_Matthew_Ifield.flac"
+    },
+    {
+      "song": "The Child In Us",
+      "artist": "Enigma",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/rabin-v-1784895800901-The_Child_In_Us_-_Enigma.flac"
+    },
+    {
+      "song": "Closer",
+      "artist": "The Chainsmokers & Halsey",
+      "url": "https://lossless.echomusic.fun/Music/hakishi-closer.flac"
+    },
+    {
+      "song": "Soniyo",
+      "artist": "Sonu Nigam, Neeraj Shridhar, Shreya Ghoshal, Raju Singh and Kumaar",
+      "url": "https://lossless.echomusic.fun/Music/hakishi-soniyo.flac"
+    },
+    {
+      "song": "Kids",
+      "artist": "Kyle Dixon & Michael Stein ",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/rabin-v-1784891409998-Kids__Orchestral__-_Jsco.flac"
+    },
+    {
+      "song": "golden hour",
+      "artist": "JVKE",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/rabin-v-1784896167954-golden_hour_-_JVKE.flac"
+    },
+    {
+      "song": "blue",
+      "artist": "yung kai",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/rabin-v-1784898311864-blue_-_yung_kai.flac"
+    },
+    {
+      "song": "a thousand years",
+      "artist": "Christina Perri",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/rabin-v-1784898276233-A_Thousand_Years__feat._Kyson_Facer__-_Jada_Facer.flac"
+    },
+    {
+      "song": "Koodappirannor",
+      "artist": "Parvatish Pradeep, Sooraj Santhosh, Nila Raj, B.K. Harinarayanan",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/rabin-v-1784896417126-Koodappirannor_-_Parvatish_Pradeep__Sooraj_Santhosh__Nila_Raj___B.K.Harinarayanan.flac"
+    },
+    {
+      "song": "Kadal Raasa Naan",
+      "artist": "A.R. Rahman, Yuvan Shankar Raja",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/rabin-v-1784897210692-Kadal_Raasa_Naan_-_A.R._Rahman___Yuvan_Shankar_Raja.flac"
+    },
+    {
+      "song": "Arcade",
+      "artist": "Duncan Laurence",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/rabin-v-1784895860950-Arcade_-_Duncan_Laurence.flac"
+    },
+    {
+      "song": "Kurama (Hindi Rap)",
+      "artist": "BAD Junkie and Prakhar Gupta",
+      "url": "https://lossless.echomusic.fun/Music/hakishi-kurama_hindi_rap.flac"
+    },
+    {
+      "song": "...Baby One More Time",
+      "artist": "Britney Spears",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/wseetp-1784898051367-Baby_One_More_Time_-_Britney_Spears.flac"
+    },
+    {
+      "song": "Makane X Koodappirannor",
+      "artist": "Parvatish Pradeep, B.K. Harinarayanan",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/rabin-v-1784896462878-Makane_X_Koodappirannor_-_Parvatish_Pradeep__Sooraj_Santhosh___B.K.Harinarayanan.flac"
+    },
+    {
+      "song": "Innum Konjam Neram",
+      "artist": "A.R. Rahman, Vijay Prakash, Shweta Mohan and Kabilan",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/rabin-v-1784897110195-Innum_Konjam_Naeram_-_A.R._Rahman__Vijay_Prakash___Shweta_Mohan.flac"
+    },
+    {
+      "song": "Forever Young",
+      "artist": "Alphaville",
+      "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/rabin-v-1784898123652-Forever_Young_-_Alphaville.flac"
+    },
+    {
       "song": "Perfect (Exceeder)",
       "artist": "Mason, Princess Superstar",
       "url": "https://raw.githubusercontent.com/EchoMusicApp/Lossless-Database/main/Music/pinuaple-1784889042642-00_-_MASON_-_Perfect__Exceeder_.flac"
